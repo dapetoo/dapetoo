@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Peter Dada</h1>
-<h3 align="center">A passionate DevOps Engineer from Nigeria</h3>
+<h3 align="center">A passionate DevOps Engineer</h3>
 
 - 🔭 I’m currently working on **deploying Google Cloud Microservices demo**
 
