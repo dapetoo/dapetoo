@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Peter Dada</h1>
 <h3 align="center">A passionate DevOps Engineer</h3>
 
-- 🔭 I’m currently working on **deploying Google Cloud Microservices demo**
-
-- 🌱 I’m currently learning **Kubernetes, Terraform, Bash Scripting, CI/CD**
-
 - 👯 I’m looking to collaborate on **devops projects**
 
 - 👨‍💻 All of my projects are available at [https://github.com/dapetoo](https://github.com/dapetoo)
